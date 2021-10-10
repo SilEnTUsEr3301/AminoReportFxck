@@ -9,8 +9,8 @@ print(fore.TURQUOISE_2 + style.BOLD)
 print("""Script by Lil Zevi
 Github : https://github.com/LilZevi""")
 print(pyfiglet.figlet_format("AminoReportFxck", font="small"))
-say("cat", """[C] Report Community
-[U] Report User""")
+print("Report Community C")
+
 select = input("Select >> ")
 
 if select == "C":
