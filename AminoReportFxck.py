@@ -9,7 +9,7 @@ print(fore.TURQUOISE_2 + style.BOLD)
 print("""Script by Lil Zevi
 Github : https://github.com/LilZevi""")
 print(pyfiglet.figlet_format("AminoReportFxck", font="small"))
-print("Report Community C")
+print("Report Community C or report User U")
 
 select = input("Select >> ")
 
