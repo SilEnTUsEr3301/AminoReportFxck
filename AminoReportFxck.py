@@ -1,7 +1,7 @@
 import amino
 import asyncio
 import pyfiglet
-from animalsay.utils import say
+
 from reportconfigs import aminoreportfxckfunctions
 from colored import fore, back, style, attr
 attr(0)
